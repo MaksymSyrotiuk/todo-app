@@ -1,0 +1,17 @@
+#root {
+  text-align: center;
+}
+
+html {
+  background-color: #315f51;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.App {
+  max-width: 600px;
+}
